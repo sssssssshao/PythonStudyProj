@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1051559-d8e8-4728-990c-ca3785169818" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/graphicInterface/describe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeModule/chardetDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeModule/psutilDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeModule/requestsDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeModule/resources/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenvDemo/virtualenvDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threeModule/pillowDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/threeModule/pillowDemo.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudyProj$pdbSetTrace.coverage" NAME="pdbSetTrace Coverage Results" MODIFIED="1529897617468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$factDoctest.coverage" NAME="factDoctest Coverage Results" MODIFIED="1529915646862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_error.coverage" NAME="logging_error Coverage Results" MODIFIED="1529856177548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$serializeDemo.coverage" NAME="serializeDemo Coverage Results" MODIFIED="1530089311462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$describe.coverage" NAME="describe Coverage Results" MODIFIED="1531890579207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphicInterface" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$example.coverage" NAME="example Coverage Results" MODIFIED="1529856957828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$pillowDemo.coverage" NAME="pillowDemo Coverage Results" MODIFIED="1531886380000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging.coverage" NAME="logging Coverage Results" MODIFIED="1529891642788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$HTMLParserDemo.coverage" NAME="HTMLParserDemo Coverage Results" MODIFIED="1531884644886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$assert.coverage" NAME="assert Coverage Results" MODIFIED="1529891230379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$strIOandByteIO.coverage" NAME="strIOandByteIO Coverage Results" MODIFIED="1530075388344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_raise.coverage" NAME="logging_raise Coverage Results" MODIFIED="1529856358663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Doctest_fact.coverage" NAME="Doctest fact Coverage Results" MODIFIED="1529915643579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict_test_attrerror.coverage" NAME="Unittests for unittestDemo.TestDict.test_attrerror Coverage Results" MODIFIED="1529906900199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$demo.coverage" NAME="demo Coverage Results" MODIFIED="1529915523638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$osAndDir.coverage" NAME="osAndDir Coverage Results" MODIFIED="1530085204904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$loggingDemo.coverage" NAME="loggingDemo Coverage Results" MODIFIED="1529891676833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_invalid.coverage" NAME="Unittests for TestStudent.TestStudent.main Coverage Results" MODIFIED="1529914600454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$fileIO.coverage" NAME="fileIO Coverage Results" MODIFIED="1530074864021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$mysqlDemo.coverage" NAME="mysqlDemo Coverage Results" MODIFIED="1531318545571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkDB" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict.coverage" NAME="Unittests for unittestDemo.TestDict Coverage Results" MODIFIED="1529907370521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1531067504019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadAndProcess" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$ErrorDebugTest.coverage" NAME="ErrorDebugTest Coverage Results" MODIFIED="1529855776239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Dict.coverage" NAME="Dict Coverage Results" MODIFIED="1529906753138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$datetimeDemo.coverage" NAME="datetimeDemo Coverage Results" MODIFIED="1531216178336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_in_unittestDemo_py.coverage" NAME="Unittests in unittestDemo.py Coverage Results" MODIFIED="1529905939254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_reraise.coverage" NAME="logging_reraise Coverage Results" MODIFIED="1529856795176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$chardetDemo.coverage" NAME="chardetDemo Coverage Results" MODIFIED="1531889654556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_0_to_60.coverage" NAME="Unittests for TestStudent.TestStudent.test_0_to_60 Coverage Results" MODIFIED="1529907543329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$requestsDemo.coverage" NAME="requestsDemo Coverage Results" MODIFIED="1531889388395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="virtualenvDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/virtualenvDemo/virtualenvDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="describe.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graphicInterface/describe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="117" column="37" lean-forward="true" selection-start-line="117" selection-start-column="37" selection-end-line="120" selection-end-column="32" />
+              <folding>
+                <element signature="e#2167#2188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>//gd1.alicdn.com/imgextra/i1/2546029780/TB2LsCLX8fH8KJjy1XbXXbLdXXa-2546029780.gif</find>
+      <find>port</find>
+      <find>connect</find>
+      <find>&gt;&gt;&gt;</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>//amos.alicdn.com/online.aw?v=2&amp;uid=%E6%BA%90%E6%B0%8F%E6%9C%A8%E8%AF%AD%E5%AE%B6%E5%B1%85%E6%97%97%E8%88%B0%E5%BA%97&amp;site=cntaobao&amp;s=2&amp;charset=utf-8</replace>
+      <replace>gd1.alicdn.com/imgextra/i1/2546029780/TB2LsCLX8fH8KJjy1XbXXbLdXXa-2546029780.gif</replace>
+      <replace />
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ErrorDebugTest.py" />
+        <option value="$PROJECT_DIR$/error/error.py" />
+        <option value="$PROJECT_DIR$/error/ErrorDebugTest.py" />
+        <option value="$PROJECT_DIR$/error/logging_error.py" />
+        <option value="$PROJECT_DIR$/error/logging_raise.py" />
+        <option value="$PROJECT_DIR$/error/logging_reraise.py" />
+        <option value="$PROJECT_DIR$/error/examp.py" />
+        <option value="$PROJECT_DIR$/error/example.py" />
+        <option value="$PROJECT_DIR$/debug/assert.py" />
+        <option value="$PROJECT_DIR$/debug/logging.py" />
+        <option value="$PROJECT_DIR$/debug/loggingDemo.py" />
+        <option value="$PROJECT_DIR$/debug/pdbDemo.py" />
+        <option value="$PROJECT_DIR$/debug/pdbSetTrace.py" />
+        <option value="$PROJECT_DIR$/test/unitTest.py" />
+        <option value="$PROJECT_DIR$/test/Dict.py" />
+        <option value="$PROJECT_DIR$/test/unittestDemo.py" />
+        <option value="$PROJECT_DIR$/test/TestStudent.py" />
+        <option value="$PROJECT_DIR$/leaning.py" />
+        <option value="$PROJECT_DIR$/test/Student.py" />
+        <option value="$PROJECT_DIR$/test/unitTest/Dict.py" />
+        <option value="$PROJECT_DIR$/test/documentTest/demo.py" />
+        <option value="$PROJECT_DIR$/test/documentTest/factDoctest.py" />
+        <option value="$PROJECT_DIR$/IOProgram/IODemo.py" />
+        <option value="$PROJECT_DIR$/IOProgram/fileWrite.py" />
+        <option value="$PROJECT_DIR$/IOProgram/test.txt" />
+        <option value="$PROJECT_DIR$/IOProgram/fileIO.py" />
+        <option value="$PROJECT_DIR$/IOProgram/StringIO.py" />
+        <option value="$PROJECT_DIR$/IOProgram/strIOandByteIO.py" />
+        <option value="$PROJECT_DIR$/IOProgram/osAndDir.py" />
+        <option value="$PROJECT_DIR$/IOProgram/serializeDemo.py" />
+        <option value="$PROJECT_DIR$/threadAndProcess/describe.py" />
+        <option value="$PROJECT_DIR$/threadAndProcess/multiprocessing.py" />
+        <option value="$PROJECT_DIR$/threadAndProcess/process.py" />
+        <option value="$PROJECT_DIR$/threadAndProcess/thread.py" />
+        <option value="$PROJECT_DIR$/commonModule/datetimeDemo.py" />
+        <option value="$PROJECT_DIR$/threeModule/describe.py" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/linkDB/mysqlDemo.py" />
+        <option value="$PROJECT_DIR$/threeModule/pillowDemo.py" />
+        <option value="$PROJECT_DIR$/threeModule/requests.py" />
+        <option value="$PROJECT_DIR$/threeModule/requestsDemo.py" />
+        <option value="$PROJECT_DIR$/threeModule/chardetDemo.py" />
+        <option value="$PROJECT_DIR$/threeModule/psutilDemo.py" />
+        <option value="$PROJECT_DIR$/virtualenvDemo/virtualenvDemo.py" />
+        <option value="$PROJECT_DIR$/graphicInterface/describe.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1265" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudyProj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudyProj" type="462c0819:PsiDirectoryNode" />
+              <item name="graphicInterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudyProj" type="462c0819:PsiDirectoryNode" />
+              <item name="regularExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/threeModule" />
+      <recent name="$PROJECT_DIR$/IOProgram" />
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/threeModule/resources" />
+      <recent name="$PROJECT_DIR$/basePython" />
+      <recent name="$PROJECT_DIR$/test/unitTest" />
+      <recent name="$PROJECT_DIR$/error" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.describe">
+    <configuration name="HTMLParserDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/commonModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commonModule/HTMLParserDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="chardetDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threeModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threeModule/chardetDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="describe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphicInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphicInterface/describe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pillowDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threeModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threeModule/pillowDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="requestsDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/threeModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threeModule/requestsDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HTMLParserDemo" />
+      <item itemvalue="Python.pillowDemo" />
+      <item itemvalue="Python.requestsDemo" />
+      <item itemvalue="Python.chardetDemo" />
+      <item itemvalue="Python.describe" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.describe" />
+        <item itemvalue="Python.chardetDemo" />
+        <item itemvalue="Python.requestsDemo" />
+        <item itemvalue="Python.pillowDemo" />
+        <item itemvalue="Python.HTMLParserDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1051559-d8e8-4728-990c-ca3785169818" name="Default" comment="" />
+      <created>1529854573211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529854573211</updated>
+    </task>
+    <task id="LOCAL-00001" summary="IO 和错误/调试/测试">
+      <created>1530089955049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530089955049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python 基础内容">
+      <created>1530090183083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530090183083</updated>
+    </task>
+    <task id="LOCAL-00003" summary="进程和线程">
+      <created>1531136515184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531136515184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="常用内建模块">
+      <created>1531219116402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531219116402</updated>
+    </task>
+    <task id="LOCAL-00005" summary="数据库连接">
+      <created>1531318586317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531318586317</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_TestStudent_TestStudent_test_invalid - 2018.06.25 at 16h 15m 11s.xml">
+      <configuration name="Unittests for TestStudent.TestStudent.test_invalid" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestStudent_TestStudent_main - 2018.06.25 at 16h 15m 39s.xml">
+      <configuration name="Unittests for TestStudent.TestStudent.main" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestStudent_TestStudent_main - 2018.06.25 at 16h 16m 40s.xml">
+      <configuration name="Unittests for TestStudent.TestStudent.main" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 32m 34s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 32m 36s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 33m 12s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 33m 29s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 33m 36s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 33m 46s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_fact - 2018.06.25 at 16h 34m 04s.xml">
+      <configuration name="Doctest fact" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1265" height="709" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4232026" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3058054" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IO 和错误/调试/测试" />
+    <MESSAGE value="python 基础内容" />
+    <MESSAGE value="进程和线程" />
+    <MESSAGE value="常用内建模块" />
+    <MESSAGE value="数据库连接" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据库连接" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/error/logging_reraise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error/logging_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/loggingDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/pdbDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/pdbSetTrace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modular/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basePython/advance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unitTest/unittestDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leaning.py" />
+    <entry file="file://$PROJECT_DIR$/basePython/learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unitTest/Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unitTest/TestStudent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unitTest/Dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/documentTest/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/documentTest/factDoctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/IODemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/test1.txt" />
+    <entry file="file://$PROJECT_DIR$/IOProgram/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/fileIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="90" column="12" lean-forward="true" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/strIOandByteIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/osAndDir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/pickle.py" />
+    <entry file="file://$PROJECT_DIR$/IOProgram/dump.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOProgram/serializeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadAndProcess/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="163" lean-forward="true" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadAndProcess/describe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadAndProcess/thread.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonModule/datetimeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="212" selection-start-line="19" selection-start-column="212" selection-end-line="19" selection-end-column="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/abstracts.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="141" column="36" lean-forward="true" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/optionfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkDB/mysqlDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonModule/HTMLParserDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/resources/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/resources/thumbnail.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/resources/blur.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/describe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/resources/code.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/pillowDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="169" column="11" lean-forward="true" selection-start-line="169" selection-start-column="11" selection-end-line="169" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/requestsDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/chardetDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threeModule/psutilDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/virtualenvDemo/virtualenvDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regularExpression/describe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphicInterface/describe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="117" column="37" lean-forward="true" selection-start-line="117" selection-start-column="37" selection-end-line="120" selection-end-column="32" />
+          <folding>
+            <element signature="e#2167#2188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
