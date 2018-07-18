@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1051559-d8e8-4728-990c-ca3785169818" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/emailProj/describe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networkProgram/TCP/clientDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networkProgram/TCP/serverDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networkProgram/UDP/UDPDemp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networkProgram/UDP/clientDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networkProgram/UDP/serverDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonStudyProj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonStudyProj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/networkProgram/TCP/TCPDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkProgram/TCP/TCPDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkDB/mysqlDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkDB/mysqlDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,13 +46,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="describe.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/emailProj/describe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-            </state>
-          </provider>
+      <file leaf-file-name="mysqlDemo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linkDB/mysqlDemo.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -95,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/error/error.py" />
-        <option value="$PROJECT_DIR$/error/ErrorDebugTest.py" />
         <option value="$PROJECT_DIR$/error/logging_error.py" />
         <option value="$PROJECT_DIR$/error/logging_raise.py" />
         <option value="$PROJECT_DIR$/error/logging_reraise.py" />
@@ -131,7 +116,6 @@
         <option value="$PROJECT_DIR$/commonModule/datetimeDemo.py" />
         <option value="$PROJECT_DIR$/threeModule/describe.py" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/linkDB/mysqlDemo.py" />
         <option value="$PROJECT_DIR$/threeModule/pillowDemo.py" />
         <option value="$PROJECT_DIR$/threeModule/requests.py" />
         <option value="$PROJECT_DIR$/threeModule/requestsDemo.py" />
@@ -146,6 +130,9 @@
         <option value="$PROJECT_DIR$/networkProgram/UDP/serverDemo.py" />
         <option value="$PROJECT_DIR$/networkProgram/UDP/clientDemo.py" />
         <option value="$PROJECT_DIR$/emailProj/describe.py" />
+        <option value="$PROJECT_DIR$/emailProj/SMTPDemo.py" />
+        <option value="$PROJECT_DIR$/emailProj/POP3Demo.py" />
+        <option value="$PROJECT_DIR$/linkDB/mysqlDemo.py" />
       </list>
     </option>
   </component>
@@ -159,8 +146,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="761" />
-    <option name="y" value="118" />
+    <option name="x" value="420" />
+    <option name="y" value="135" />
     <option name="width" value="1265" />
     <option name="height" value="709" />
   </component>
@@ -182,12 +169,7 @@
             <path>
               <item name="PythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudyProj" type="462c0819:PsiDirectoryNode" />
-              <item name="emailProj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonStudyProj" type="462c0819:PsiDirectoryNode" />
-              <item name="graphicInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="linkDB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -433,7 +415,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="118" width="1265" height="709" extended-state="0" />
+    <frame x="420" y="135" width="1265" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
@@ -501,14 +483,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="数据库连接" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/unitTest/unittestDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leaning.py" />
     <entry file="file://$PROJECT_DIR$/basePython/learning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-106" />
@@ -638,13 +612,6 @@
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/abstracts.py" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/__init__.py" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/mysql/connector/optionfiles.py" />
-    <entry file="file://$PROJECT_DIR$/linkDB/mysqlDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonModule/HTMLParserDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="838">
@@ -785,6 +752,23 @@
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailProj/POP3Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="152" column="96" selection-start-line="152" selection-start-column="96" selection-end-line="152" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailProj/SMTPDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="184" column="53" selection-start-line="184" selection-start-column="53" selection-end-line="184" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkDB/mysqlDemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
