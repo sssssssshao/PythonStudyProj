@@ -2,27 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1051559-d8e8-4728-990c-ca3785169818" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AsyncIO/coroutineDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AsyncIO/describe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDevelopment/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDevelopment/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDevelopment/templates/signin-ok.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/documentTest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest/unitTest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonStudyProj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonStudyProj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebDevelopment/UseTemplate.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebDevelopment/UseTemplate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AsyncIO/aiohttpDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/documentTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AsyncIO/asyncAwaitDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/documentTest/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/documentTest/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/documentTest/factDoctest.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/documentTest/factDoctest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest/Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/unitTest/Dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/unitTest/Student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest/TestStudent.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/unitTest/TestStudent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AsyncIO/asyncioDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest/unittestDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/unitTest/unittestDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-01.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-02.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-03.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-04.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-05.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-06.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-07.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-08.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-09.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-10.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-11.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-14.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-15.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/awesome-python3-webapp-day-16.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webProj/day9.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,64 +43,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_raise.coverage" NAME="logging_raise Coverage Results" MODIFIED="1529856358663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$loggingDemo.coverage" NAME="loggingDemo Coverage Results" MODIFIED="1529891676833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1531067504019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadAndProcess" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$strIOandByteIO.coverage" NAME="strIOandByteIO Coverage Results" MODIFIED="1530075388344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
     <SUITE FILE_PATH="coverage/PythonStudyProj$pdbSetTrace.coverage" NAME="pdbSetTrace Coverage Results" MODIFIED="1529897617468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$pillowDemo.coverage" NAME="pillowDemo Coverage Results" MODIFIED="1531886380000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$mysqlDemo.coverage" NAME="mysqlDemo Coverage Results" MODIFIED="1531318545571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkDB" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$TCPDemo.coverage" NAME="TCPDemo Coverage Results" MODIFIED="1531908428328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkProgram/TCP" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$ErrorDebugTest.coverage" NAME="ErrorDebugTest Coverage Results" MODIFIED="1529855776239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_invalid.coverage" NAME="Unittests for TestStudent.TestStudent.main Coverage Results" MODIFIED="1529914600454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$datetimeDemo.coverage" NAME="datetimeDemo Coverage Results" MODIFIED="1531216178336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$describe.coverage" NAME="describe Coverage Results" MODIFIED="1531890579207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphicInterface" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$asyncAwaitDemo.coverage" NAME="asyncAwaitDemo Coverage Results" MODIFIED="1531976242970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$WSGIInterface.coverage" NAME="WSGIInterface Coverage Results" MODIFIED="1531927939660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDevelopment" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$serializeDemo.coverage" NAME="serializeDemo Coverage Results" MODIFIED="1530089311462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$fileIO.coverage" NAME="fileIO Coverage Results" MODIFIED="1530074864021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_in_unittestDemo_py.coverage" NAME="Unittests in unittestDemo.py Coverage Results" MODIFIED="1529905939254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$asyncioDemo.coverage" NAME="asyncioDemo Coverage Results" MODIFIED="1531975925694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$osAndDir.coverage" NAME="osAndDir Coverage Results" MODIFIED="1530085204904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_error.coverage" NAME="logging_error Coverage Results" MODIFIED="1529856177548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$demo.coverage" NAME="demo Coverage Results" MODIFIED="1529915523638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$assert.coverage" NAME="assert Coverage Results" MODIFIED="1529891230379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Dict.coverage" NAME="Dict Coverage Results" MODIFIED="1529906753138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_reraise.coverage" NAME="logging_reraise Coverage Results" MODIFIED="1529856795176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$requestsDemo.coverage" NAME="requestsDemo Coverage Results" MODIFIED="1531889388395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict.coverage" NAME="Unittests for unittestDemo.TestDict Coverage Results" MODIFIED="1529907370521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$UseTemplate.coverage" NAME="UseTemplate Coverage Results" MODIFIED="1531974696970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDevelopment" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_0_to_60.coverage" NAME="Unittests for TestStudent.TestStudent.test_0_to_60 Coverage Results" MODIFIED="1529907543329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$chardetDemo.coverage" NAME="chardetDemo Coverage Results" MODIFIED="1531889654556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$example.coverage" NAME="example Coverage Results" MODIFIED="1529856957828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Doctest_fact.coverage" NAME="Doctest fact Coverage Results" MODIFIED="1529915643579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$HTMLParserDemo.coverage" NAME="HTMLParserDemo Coverage Results" MODIFIED="1531884644886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$coroutineDemo.coverage" NAME="coroutineDemo Coverage Results" MODIFIED="1531975298932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$logging.coverage" NAME="logging Coverage Results" MODIFIED="1529891642788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict_test_attrerror.coverage" NAME="Unittests for unittestDemo.TestDict.test_attrerror Coverage Results" MODIFIED="1529906900199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$aiohttpDemo.coverage" NAME="aiohttpDemo Coverage Results" MODIFIED="1531978759047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
     <SUITE FILE_PATH="coverage/PythonStudyProj$WebFrame.coverage" NAME="WebFrame Coverage Results" MODIFIED="1531928856462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDevelopment" />
     <SUITE FILE_PATH="coverage/PythonStudyProj$factDoctest.coverage" NAME="factDoctest Coverage Results" MODIFIED="1529915646862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$serializeDemo.coverage" NAME="serializeDemo Coverage Results" MODIFIED="1530089311462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_error.coverage" NAME="logging_error Coverage Results" MODIFIED="1529856177548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$coroutineDemo.coverage" NAME="coroutineDemo Coverage Results" MODIFIED="1531975298932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$describe.coverage" NAME="describe Coverage Results" MODIFIED="1531890579207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphicInterface" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$pillowDemo.coverage" NAME="pillowDemo Coverage Results" MODIFIED="1531886380000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$example.coverage" NAME="example Coverage Results" MODIFIED="1529856957828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$asyncAwaitDemo.coverage" NAME="asyncAwaitDemo Coverage Results" MODIFIED="1531976242970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$logging.coverage" NAME="logging Coverage Results" MODIFIED="1529891642788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$HTMLParserDemo.coverage" NAME="HTMLParserDemo Coverage Results" MODIFIED="1531884644886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$asyncioDemo.coverage" NAME="asyncioDemo Coverage Results" MODIFIED="1531975925694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$assert.coverage" NAME="assert Coverage Results" MODIFIED="1529891230379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$strIOandByteIO.coverage" NAME="strIOandByteIO Coverage Results" MODIFIED="1530075388344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_raise.coverage" NAME="logging_raise Coverage Results" MODIFIED="1529856358663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Doctest_fact.coverage" NAME="Doctest fact Coverage Results" MODIFIED="1529915643579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict_test_attrerror.coverage" NAME="Unittests for unittestDemo.TestDict.test_attrerror Coverage Results" MODIFIED="1529906900199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$demo.coverage" NAME="demo Coverage Results" MODIFIED="1529915523638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/documentTest" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$osAndDir.coverage" NAME="osAndDir Coverage Results" MODIFIED="1530085204904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$loggingDemo.coverage" NAME="loggingDemo Coverage Results" MODIFIED="1529891676833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/debug" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_invalid.coverage" NAME="Unittests for TestStudent.TestStudent.main Coverage Results" MODIFIED="1529914600454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$fileIO.coverage" NAME="fileIO Coverage Results" MODIFIED="1530074864021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IOProgram" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$mysqlDemo.coverage" NAME="mysqlDemo Coverage Results" MODIFIED="1531318545571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkDB" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_unittestDemo_TestDict.coverage" NAME="Unittests for unittestDemo.TestDict Coverage Results" MODIFIED="1529907370521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$aiohttpDemo.coverage" NAME="aiohttpDemo Coverage Results" MODIFIED="1531978759047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AsyncIO" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1531067504019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadAndProcess" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$WSGIInterface.coverage" NAME="WSGIInterface Coverage Results" MODIFIED="1531927939660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDevelopment" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$ErrorDebugTest.coverage" NAME="ErrorDebugTest Coverage Results" MODIFIED="1529855776239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$datetimeDemo.coverage" NAME="datetimeDemo Coverage Results" MODIFIED="1531216178336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commonModule" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Dict.coverage" NAME="Dict Coverage Results" MODIFIED="1529906753138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_in_unittestDemo_py.coverage" NAME="Unittests in unittestDemo.py Coverage Results" MODIFIED="1529905939254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$TCPDemo.coverage" NAME="TCPDemo Coverage Results" MODIFIED="1531908428328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networkProgram/TCP" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$logging_reraise.coverage" NAME="logging_reraise Coverage Results" MODIFIED="1529856795176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/error" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$UseTemplate.coverage" NAME="UseTemplate Coverage Results" MODIFIED="1531974696970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDevelopment" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$chardetDemo.coverage" NAME="chardetDemo Coverage Results" MODIFIED="1531889654556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$Unittests_for_TestStudent_TestStudent_test_0_to_60.coverage" NAME="Unittests for TestStudent.TestStudent.test_0_to_60 Coverage Results" MODIFIED="1529907543329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/PythonStudyProj$requestsDemo.coverage" NAME="requestsDemo Coverage Results" MODIFIED="1531889388395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threeModule" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="aiohttpDemo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AsyncIO/aiohttpDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="652">
               <caret line="64" column="7" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="7" />
               <folding>
                 <element signature="e#1110#1124#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web_app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/web_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="237" column="38" selection-start-line="237" selection-start-column="22" selection-end-line="237" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -192,10 +194,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="27" />
-    <option name="width" value="1265" />
-    <option name="height" value="666" />
+    <option name="x" value="422" />
+    <option name="y" value="100" />
+    <option name="width" value="1674" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -462,20 +464,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="27" width="1265" height="666" extended-state="0" />
-    <editor active="true" />
+    <frame x="422" y="100" width="1674" height="895" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32688928" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32843137" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42179263" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42179263" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.57644993" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526574" />
-      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1920694" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -485,34 +484,36 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32698414" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526574" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32688928" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42179263" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42179263" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32698414" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32698414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
-      <window_info anchor="right" id="Database" order="4" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.57644993" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32688928" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32843137" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -732,26 +733,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="110" column="20" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="20" />
-          <folding>
-            <element signature="e#2630#2653#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="1212" selection-start-line="1212" selection-end-line="1212" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/flask/app.py" />
     <entry file="file://$PROJECT_DIR$/WebDevelopment/templates/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,13 +758,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/flask/templating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="133" column="59" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/flask/templating.py" />
     <entry file="file://$PROJECT_DIR$/WebDevelopment/UseTemplate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -814,32 +794,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/web_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="237" column="38" selection-start-line="237" selection-start-column="22" selection-end-line="237" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/web.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/helpers.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/aiohttp/web_app.py" />
     <entry file="file://$PROJECT_DIR$/AsyncIO/aiohttpDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="652">
           <caret line="64" column="7" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="7" />
           <folding>
             <element signature="e#1110#1124#0" expanded="true" />
